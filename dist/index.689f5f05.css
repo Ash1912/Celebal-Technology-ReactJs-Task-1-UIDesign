@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --lead-lead-1: Manrope;
+  --heading-bold-heading-6-16: Inter;
+  --lead-lead-1-size: 18px;
+  --font-size-5xl: 24px;
+  --heading-bold-heading-6-16-size: 16px;
+  --heading-h2-size: 48px;
+  --font-size-45xl: 64px;
+  --body-size: 14px;
+  --default-white: #fff;
+  --color-tomato-100: #f84646;
+  --color-black: #000;
+  --text-gray-100: #f4f5f7;
+  --text-body: gray;
+  --text-gray-900: #18191f;
+  --text-disable: #e6e6e6;
+  --text-title: #2e2e2e;
+  --gap-5xl: 24px;
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --br-base: 16px;
+  --br-5xs: 8px;
+  --grey-shadow: 0px 30px 40px #d4d9e833;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
